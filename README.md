@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saifulislamsany360
-- 👀 I’m interested in Web Devolaping
+- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
