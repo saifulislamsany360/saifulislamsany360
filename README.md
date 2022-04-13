@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100"/>
 </div>
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
+ 
+ 
 ### <div align="center">I'm Saiful islam Sany, a full-time frontend developer, working remotely since 2019 🚀</div>  
   
 
